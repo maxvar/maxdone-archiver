@@ -4,7 +4,7 @@ group = "ru.maxvar"
 version = "1.0-SNAPSHOT"
 
 plugins {
-    kotlin("jvm") version "1.3.71"
+    kotlin("jvm") version "1.4.21"
 }
 
 repositories {
